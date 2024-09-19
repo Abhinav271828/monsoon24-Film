@@ -17,3 +17,14 @@ Notes and resources for the Introduction to Film Studies course at IIIT Hyderaba
     - Continuity vs. Discontinuity Editing
         - Броненосец Потемкин
         - The Usual Suspects
+- 29 Aug, Thursday (Lecture 7)
+    - Человек с киноаппаратом
+- 02 Sep, Monday (Lecture 8)
+    - Человек с Киноаппаратом
+    - Story, Plot and Narrative
+- 09 Sep, Monday (Lecture 9)
+    - Narrative
+- 10 Sep, Thursday (Lecture 10)
+    - Shot Composition
+        - Camera Movement
+    - Narration
